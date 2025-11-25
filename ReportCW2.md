@@ -48,6 +48,7 @@
 
 **Скриншоты:**
 ![Декодированный токен](screenshots/decoded_token.png)
+
 ![Взломанный пароль](screenshots/cracked_password.png)
 
 **Ответы на вопросы:**
